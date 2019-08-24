@@ -1,2 +1,2 @@
 # TrainControl
-A signaling system for Traincraft using ComputerCraft and Railcraft. 
+A signaling system for Traincraft using ComputerCraft and Railcraft.
